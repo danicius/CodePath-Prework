@@ -3,14 +3,14 @@ My app that changes the items colors
 ## My Prework
 
 ### App Description
-`TODO://`My App
+My App
 
 ### App Walk-though
 
 <img src= https://i.imgur.com/LQK89uN.gif
 width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
